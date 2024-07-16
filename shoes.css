@@ -1,0 +1,32 @@
+.slider1{
+    display: flex;
+  justify-content: center;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  height: 400px;
+}
+.slider3{
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        background-color: #23222536;
+        border: 1px solid #9a899db5;
+        border-radius: 5px;
+        height: 350px;
+        width: 300px;
+        display: flex;
+        flex-direction: column;
+        margin: 15px;
+}
+.slider3 img{
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+}
+.slider3 button{
+    padding: 10px 20px;
+  border: 1px solid black;
+  border-radius: 5px;
+  color: blue;
+}

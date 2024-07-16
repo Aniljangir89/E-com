@@ -1,0 +1,47 @@
+body{
+margin: 0;padding: 0;box-sizing: border-box;
+background-color: rgb(105, 148, 194);
+}
+.slider1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    
+    overflow: hidden;
+}
+.slider4{
+    background-color: #cabebe52;
+  border: 1px solid #ffffff91;
+  border-radius: 10px;
+  padding: 20px 30px;
+  height: 300px;
+  
+}
+.slider4 img{
+    border-radius: 50%;
+  height: 150px;
+  width: 150px;
+}
+.slider4 button{
+    padding: 10px 20px;
+  font-weight: lighter;
+  border: 1px solid #3f3a3a;
+  border-radius: 5px;
+  
+  text-decoration: none;
+}
+.slider4 button a{
+  text-decoration: none;
+  color: #3d4fd9;
+}
+.slider4 button:hover{
+    border: 1px solid #f6f6f6;
+    color: #f6f6f6;
+}
+.heading{
+    text-align: center;
+    font-size: 2rem;
+    margin: 20px;
+}
